@@ -5,5 +5,8 @@ Modify the keyword count program that we wrote in class to handle all of the key
 Compile Steps: 
 
 Command(s) to run the program:
+gcc q1.c
+./a.out
 
 Output:
+keyword counts of input

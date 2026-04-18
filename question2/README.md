@@ -7,5 +7,8 @@ Hint: First count all the words, then use a tree, but compare counts rather than
 Compile Steps: 
 
 Command(s) to run:
+gcc q2.c
+./a.out
 
 Output:
+distinct words in its input sorted into decreasing order
